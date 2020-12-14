@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Portfolio on Zachary Romero</title>
+    <link>https://bigfolder.github.io/</link>
+    <description>Recent content in Project Portfolio on Zachary Romero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://bigfolder.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Determine whether a mushroom is Edible or Poisonous.</title>
+      <link>https://bigfolder.github.io/post/project-2/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://bigfolder.github.io/post/project-2/</guid>
+      <description>Learning how useful Label Encoding is through this was phenomenal, it helped push me towards NLP and gave me an easier time grasping the concept of Tokenization. Data preprocessing is necessary for a lot of projects that have valuable data that may not initially be numerical. This dataset was not sparse in features, and after quite a bit of exploration, I determined what features I wanted to drop from the dataset and began building a model.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Market analysis and Prediction in Minecraft using an Ensemble Model</title>
+      <link>https://bigfolder.github.io/post/project-3/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://bigfolder.github.io/post/project-3/</guid>
+      <description>One of my largest challenges so far! There is a Server on Minecraft that has an extremely active market on it, they use a bazaar trading system as well as an auction house system to create streams for players to sell &amp;amp; buy items. It&amp;rsquo;s become so popular that they created a public API that anyone can make calls to, you can get all kinds of data from them Check out their api here</description>
+    </item>
+    
+    <item>
+      <title>Project I: Classifying cases of Pneumonia using a Chest X-Rays and a CNN</title>
+      <link>https://bigfolder.github.io/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://bigfolder.github.io/post/project-1/</guid>
+      <description>This project was one of my first attempts of using a Convolutional Neural Network(CNN) It will not be my last! I typically use Jupyter/Google Collab notebooks to do my work. This allows me to take notes as I learn/try things. I did not have a GPU that could be utilized Tensorflow at the time of creating this (They now support more than NVIDIA). Final results shown are done with 10 EPOCHS training on a Convnet built using Primarily Separable Conv2D&amp;rsquo;s as they were less computationally intensive and I was training the CNN on CPU.</description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://bigfolder.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigfolder.github.io/contact/</guid>
+      <description>   Platform URL     Linkedin: https://www.linkedin.com/in/zachary-romero-786117197/   Github: https://github.com/BigFolder   email: zromero@student.fitchburgstate.edu    </description>
+    </item>
+    
+  </channel>
+</rss>
