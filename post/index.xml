@@ -26,6 +26,18 @@
     </item>
     
     <item>
+      <title>Project 4: Video Game data analysis and review (RoTF)</title>
+      <link>https://bigfolder.github.io/post/project-4/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://bigfolder.github.io/post/project-4/</guid>
+      <description>A project that uses Tkinter to give friends with limited code knowledge access to Data.
+  Without user input, players can view information about ALL of the Data. I&amp;rsquo;ve listed below all the Data that is shown when looking up global information. (Loot information/Death information)
+  Monster w/ Highest Kill Count,
+ Total Number of Primal/Legendary Drops Total Number of Necrotic Token Openings Total Number of Player Deaths Total Fame in game (Approximation) Average Daily Fame Injected into game (Approximation) Top 10 Monsters with the most kills (Includes their &amp;ldquo;Epic&amp;rdquo; variations) Top 10 Players (Highest fame gained from death) 5 Most Common items from Necrotic Tokens 10 Most Common Primal/Legendary items Top 10 Players with highest number of Primal/Legendary Drops    More specified is Player Lookup, Simply enter a player name (Example: &amp;ldquo;Shad&amp;rdquo;) And you will see information about this specific player.</description>
+    </item>
+    
+    <item>
       <title>Project I: Classifying cases of Pneumonia using a Chest X-Rays and a CNN</title>
       <link>https://bigfolder.github.io/post/project-1/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
